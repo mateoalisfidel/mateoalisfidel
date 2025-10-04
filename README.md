@@ -20,6 +20,7 @@ Estoy en constante aprendizaje y busco crecer tanto a nivel personal como profes
 
 ## Proyectos destacados
 - [Análisis Avanzado de la NBA](https://github.com/mateoalisfidel/El-Poder-De-Los-Datos-En-La-NBA): Proyecto en R que analiza estadísticas de jugadores, aplica PCA, clustering para ayudar a General Managers a tomar decisiones y PLS-DA para predecir All-Stars.
+- [Web Scraping para Comparación de Precios de Transporte](: Herramienta de web scraping en Python que compara precios de billetes de tren (RENFE, OUIGO) y autobús (ALSA) en tiempo real, identificando automáticamente las opciones más económicas y proporcionando una interfaz intuitiva para la búsqueda de viajes.
 ---
 
 ## Contacto
