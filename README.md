@@ -19,7 +19,7 @@ Estoy en constante aprendizaje y busco crecer tanto a nivel personal como profes
 ---
 
 ## Proyectos destacados
-- **Análisis avanzado de la NBA** → Rendimiento de jugadores y predicción de All-Stars 
+- [Análisis Avanzado de la NBA](https://github.com/mateoalisfidel/El-Poder-De-Los-Datos-En-La-NBA): Proyecto en R que analiza estadísticas de jugadores, aplica PCA, clustering para ayudar a General Managers a tomar decisiones y PLS-DA para predecir All-Stars.
 ---
 
 ## Contacto
