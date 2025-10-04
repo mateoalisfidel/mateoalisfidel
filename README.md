@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Mateo
 
-<!--
-**mateoalisfidel/mateoalisfidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ciencias de Datos** en la Universidad Politécnica de Valencia, interesado en **Machine Learning**, **análisis predictivo** y **visualización de datos**.  
+Busco proyectos y prácticas donde aplicar mis conocimientos y generar impacto real.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+Me considero una persona atenta, organizada y productiva. Estas cualidades me llevaron a descubrir en la Ciencia de Datos un campo en el que puedo transformar información en valor y resolver problemas complejos.  
+Estoy en constante aprendizaje y busco crecer tanto a nivel personal como profesional, aportando de forma activa en los equipos y proyectos en los que participo.
+
+---
+## Tecnologías
+- **Lenguajes y herramientas**: Python, R, SQL, Power BI  
+- **Experiencia práctica**: uso de librerías como Pandas, NumPy, Matplotlib y Scikit-learn, y trabajo con APIs para obtener y procesar información  
+- **Áreas de interés y práctica**: Machine Learning, Análisis Predictivo, PCA, PLS, Clustering, Regresión y Visualización de datos
+
+
+---
+
+## Proyectos destacados
+- **Análisis avanzado de la NBA** → Rendimiento de jugadores y predicción de All-Stars 
+---
+
+## Contacto
+- LinkedIn: www.linkedin.com/in/mateoalisfidel
+- Email: mateo.alisfidel.data@gmail.com
+
