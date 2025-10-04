@@ -1,6 +1,6 @@
 # Hola, soy Mateo
 
-Soy estudiante de **Ciencias de Datos** en la Universidad Politécnica de Valencia, interesado en **Machine Learning**, **análisis predictivo** y **visualización de datos**.  
+Soy estudiante de **Ciencia de Datos** en la Universidad Politécnica de Valencia, interesado en **Machine Learning**, **análisis predictivo** y **visualización de datos**.  
 Busco proyectos y prácticas donde aplicar mis conocimientos y generar impacto real.
 
 ---
